@@ -4,7 +4,7 @@
 
     <groupId>au.id.ajlane</groupId>
     <artifactId>ajlane-parent</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
@@ -35,7 +35,7 @@
         <url>https://github.com/ajlane/ajlane-parent</url>
         <connection>scm:git:git://github.com/ajlane/ajlane-parent.git</connection>
         <developerConnection>scm:git:git@github.com:ajlane/ajlane-parent.git</developerConnection>
-      <tag>ajlane-parent-0.0.3</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
