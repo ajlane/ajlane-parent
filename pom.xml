@@ -95,6 +95,7 @@
                     </executions>
                     <configuration>
                         <configLocation>checkstyle.xml</configLocation>
+                        <includes>^src/**/*.java</includes>
                     </configuration>
                     <dependencies>
                         <dependency>
